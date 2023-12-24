@@ -1,0 +1,28 @@
+html{
+    background-color: #d9e0f7;
+    text-align: center;
+    min-width: 350px;
+    font-family: 'Noto Sans', sans-serif;
+  }
+
+  h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 4em;
+    font-weight: lighter;
+    padding: 0px;
+    margin: 0px 10px;
+  }
+
+#app{
+    padding: 0px;
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+#time{
+    margin: 0 auto;
+    position: relative;
+    padding: 0px 10px;
+}
