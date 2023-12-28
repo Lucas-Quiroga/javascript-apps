@@ -1,0 +1,18 @@
+.rating {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.item {
+    background-color: rgb(9, 150, 244);
+    -webkit-mask-image: url(star.svg);
+    mask-image: url(star.svg);
+    width: 50px;
+    height: 49px;
+    cursor: pointer;
+}
+
+.item-full{
+    background-color: yellow;
+}
